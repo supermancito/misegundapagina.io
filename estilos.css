@@ -1,0 +1,31 @@
+body {
+  /*prueba jaaj*/
+  background-image: url(./imagenes/7798af9d143836c9b5fa3f36c970daa8.jpg);
+  background-size: 1200px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h1 {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-shadow: 5px 2px 4px aqua;
+}
+
+p {
+  color: aliceblue;
+  text-align: justify;
+}
+.parra2 {
+  color: rgb(226, 43, 43);
+}
+#parra3 {
+  color: chartreuse;
+  text-align: right;
+}
+img {
+  float: left;
+  padding: 3px;
+}
+div {
+  border: 2px solid greenyellow;
+}

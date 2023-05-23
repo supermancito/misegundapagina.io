@@ -1,0 +1,111 @@
+body{
+    background-color: rgb(0, 213, 255);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+}
+.logo{
+    float: left;
+  padding: 6px;
+}
+.lago2{
+    float: left;
+  padding: 6px 30px;
+}
+.lago3{
+    float: right;
+  padding: 6px 50px ;
+}
+#parraf{
+    text-align: left;
+    padding: 1px;
+}
+.bor1{
+  border: 1px  solid greenyellow;
+}
+.bor2{
+  border:1px solid black ;
+  height: 150px;
+  
+}
+.bor3{
+  border: 1px solid black;
+  height: 100px;
+}
+#fobor{
+  background-color: aquamarine;
+  border: 1px solid black;
+  height: 110px;
+}
+.img1{
+
+  float: left ;
+  padding: 3px 30px;
+}
+.p1{
+  float: left ;
+  padding: 3px 35px;
+}
+.img2{
+
+  margin-left: 300px;
+  padding: 3px 30px;
+}
+.p2{
+  margin-left: 450px;
+  padding: 3px 30px;
+}
+.img3{
+  float: right;
+  padding: 3px 30px;
+}
+.p3{
+  float: right;
+  padding: 3px 40px  ;
+}
+h3{
+  text-align:left;
+}
+button#formulario{
+  padding: 5px 40px;
+  color: white;
+  font-size:1em ;
+  background-color: #5dade2;
+  transition:background-color .25s;
+  border: 0px;
+  border-radius: 5px;
+  box-shadow: 0px 4px 0px #5d6de2;
+  margin-left: 75px;
+}
+#formulario:hover{
+background-color: rgb(0, 221, 255);
+}
+form{
+  background-color: rgb(179, 225, 165);
+  border-radius: 10px;
+  color: #6a5e5e;
+  padding: 10px;
+  margin: 0 auto;
+  width: 300px;
+}
+.edad{
+  padding: 2px 10px;
+  width: 24px;
+  height: 10px;
+  margin-left: 22px;
+  
+}
+.dni{
+  padding: 2px 10px;
+  width: 100px;
+  height: 10px;
+  margin-left: 25px;
+}
+.email{
+  margin-left: 16px;
+}
+.pais{
+  margin-left: 29px;
+}
